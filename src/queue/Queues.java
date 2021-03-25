@@ -3,6 +3,8 @@ package queue;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
+//https://www.youtube.com/watch?v=RkjdlvTY03s&t=146s
+
 public class Queues {
 	
 	public static void main(String[] args) {
